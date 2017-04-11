@@ -46,6 +46,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\DestroyObjectWhenHit\BulletController2.cs" />
+     <Compile Include="Assets\DestroyObjectWhenHit\PlayerController2.cs" />
      <Compile Include="Assets\MouseTouchMove\MouseTouchMove.cs" />
      <Compile Include="Assets\MouseTouchShootBullets\PlayerController.cs" />
      <Compile Include="Assets\MouseTouchSpin\MouseTouchSpin.cs" />
