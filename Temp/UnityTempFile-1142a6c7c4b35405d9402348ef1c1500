@@ -81,6 +81,7 @@
 -define:UNITY_TEAM_LICENSE
 -define:UNITY_PRO_LICENSE
 'Assets/MouseTouchMove/MouseTouchMove.cs'
+'Assets/MouseTouchShootBullets/PlayerController.cs'
 'Assets/MouseTouchSpin/MouseTouchSpin.cs'
 -r:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/System.Xml.Linq.dll'
