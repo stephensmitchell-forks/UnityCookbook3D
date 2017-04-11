@@ -3,7 +3,7 @@ Collection of minimal Unity codes in C# to demonstrate very basic Unity function
 
 This repository contains minimal codes that run very basic functions in
 Unity3D. When I was watching/reading tutorials and Q&As on the
-internet, I encounter issues getting what they are describing to work
+internet, I encountered issues getting what they were describing to work
 on my system. Not sure if it’s due to different system configuration,
 Unity version, operating system, etc.
 
