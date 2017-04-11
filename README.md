@@ -8,7 +8,7 @@ on my system. Not sure if it’s due to different system configuration,
 Unity version, operating system, etc.
 
 Hopefully, this repo will help people wants to learn Unity. Feel free
-to branch, contribute, or use the code as you pleased.
+to branch, contribute, or use the code as you pleased. When contributing, please make it as simple and as plain as possible. 
 
 The code is written using Unity 5.5 for Mac.
 
@@ -20,3 +20,4 @@ To install:
 
 Code list:
 1. MouseTouchSpin - spinning an object using a mouse.
+2. MouseTouchMove - moving an object 2D (X and Y) in 3D space using a mouse.
