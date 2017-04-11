@@ -17,3 +17,6 @@ To install:
 ‘git clone’
 2. Launch Unity and create a new 3D project.
 3. Drag the whole repository folder into Unity asset folder.
+
+Code list:
+1. MouseTouchSpin - spinning an object using a mouse.
