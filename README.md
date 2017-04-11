@@ -22,6 +22,7 @@ Code list:
 1. MouseTouchSpin - spinning an object using a mouse.
 2. MouseTouchMove - moving an object 2D (X and Y) in 3D space using a mouse.
 3. MouseTouchShootBullets - shoot bullets in 3rd person view.
+4. DestroyObjectWhenHit - shoot a bullet with a left-mouse click and destroy an object (a sphere).
 
 Good resources where I got these codes:
 1. http://coffeebreakcodes.com/category/unity3d/
