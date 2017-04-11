@@ -21,3 +21,7 @@ To install:
 Code list:
 1. MouseTouchSpin - spinning an object using a mouse.
 2. MouseTouchMove - moving an object 2D (X and Y) in 3D space using a mouse.
+
+Good resources where I got these codes:
+1. http://coffeebreakcodes.com/category/unity3d/
+2. 
